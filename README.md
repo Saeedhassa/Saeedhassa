@@ -1,10 +1,10 @@
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Saeedhassa&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Saeedhassa&label=Profile%20Views&color=7c3aed&style=flat" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Saeed+Hassan;Front-End+Developer;Software+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Saeed+Hassan;Front-End+Developer;React+Developer" />
 </h1>
 
 <h3 align="center">
@@ -22,56 +22,42 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  Hello! I'm Saeed Hassan, a Software Engineering student
-  and aspiring Front-End Developer from Rwanda 🇷🇼
-</p>
-
-<p align="center">
-  💻 I enjoy building modern and responsive web applications
+  Hi! I'm Saeed Hassan, a Front-End Developer
+  and Software Engineering student from Rwanda 🇷🇼
+  <br><br>
+  💻 I build modern and responsive web interfaces
   <br>
-  🌱 Currently focusing on JavaScript and React
+  🌱 Currently focusing on React and JavaScript
   <br>
-  🎓 Studying Software Engineering at UNILAK
+  🎨 Passionate about clean UI and user experience
   <br>
-  🚀 Working on real-world projects with VoidDev
+  🚀 Building projects and improving my skills every day
   <br>
-  📚 Learning, building, and improving every day
-  <br>
-  🎯 My goal is to become a professional Software Developer
+  🎯 My goal is to become a professional Front-End Developer
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-<h3 align="center">Languages</h3>
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-<h3 align="center">Frameworks & Libraries</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,django" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- JavaScript fundamentals and advanced concepts
-- React and modern Front-End development
-- Building clean and reusable components
-- Improving my CSS and responsive design skills
-- Spring Boot for Back-End development
-- Writing better and more maintainable code
+- Advanced JavaScript
+- React and reusable components
+- Responsive Web Design
+- CSS and modern styling techniques
+- React Hooks and State Management
+- Clean and maintainable Front-End code
 
 ---
 
@@ -79,14 +65,13 @@
 
 <p align="center">
   <a href="https://github.com/Saeedhassa?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saeedhassa&repo=dart-programming-assignments&theme=midnight-purple&hide_border=true" />
+    <img src="https://img.shields.io/badge/Explore-My%20Projects-7c3aed?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saeedhassa?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-7c3aed?style=for-the-badge&logo=github" />
-  </a>
+  Check out my repositories to see my
+  Front-End projects and development journey.
 </p>
 
 ---
@@ -96,10 +81,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saeedhassa&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Saeedhassa&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedhassa&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -113,7 +94,7 @@
 ---
 
 <h3 align="center">
-  💜 Building my skills, one project at a time.
+  💜 Building beautiful interfaces, one project at a time.
 </h3>
 
 <p align="center">
